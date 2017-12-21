@@ -1,0 +1,20 @@
+{
+  "name": "prototype-trace",
+  "version": "1.0.0",
+  "description": "retrieve an array containing objects in the prototype chain of an object",
+  "main": "prototype-trace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prototype",
+    "prototypal",
+    "inheritance",
+    "chain",
+    "proto",
+    "trace",
+    "trail"
+  ],
+  "author": "continuous-electronics <will.senisi@gmail.com>",
+  "license": "ISC"
+}
